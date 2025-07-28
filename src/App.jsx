@@ -1,11 +1,8 @@
-import aboutPage from "./pages/aboutPage";
-import homePage from "./pages/homePage";
-
 function App() {
   return (
     <div>
-      <aboutPage />
-      <homePage />
+      <h1>hayy & hello</h1>
+      <p>now, i learn deployment</p>
     </div>
   );
 }
